@@ -121,7 +121,7 @@ async def clear(ctx, *, amount = 1):
 
 
 
-client.run('NzcyNzIzMjI5MjY1MjMxODcy.X5-0lg.LNraV5MWhy5PNqecIopmTuuDOTY')
+client.run('')
 
 
 
